@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://oncloud125252.github.io/sitemap.xml
